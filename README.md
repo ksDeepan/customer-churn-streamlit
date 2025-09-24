@@ -2,7 +2,7 @@
 
 An end-to-end **Machine Learning + Streamlit** project to predict whether a telecom customer will churn or not, based on their demographic and service usage details.  
 
-🚀 Live Demo: [Streamlit App](https://ksdeepan-customer-churn-streamlit.streamlit.app) *(deploy link after you publish)*  
+🚀 Live Demo: [Streamlit App](https://customer-churn-app-fz2m7u6evn8wyhwt4nxpnk.streamlit.app)/ *(deploy link after you publish)*  
 📂 Dataset: [Telco Customer Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn)  
 
 ---
